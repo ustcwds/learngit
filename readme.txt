@@ -5,4 +5,4 @@ Git tracks changes of files.
 Creating a new branch is quick.
 the upper branch is wrong.
 Creating a new branch is quick and simple
-
+branch mamagement is changed.
